@@ -1,0 +1,15 @@
+{
+  "name": "tokenizer",
+  "version": "0.0.1",
+  "description": "generates code from the natural language",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "boeny",
+  "license": "MIT"
+}
